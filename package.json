@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nasudaai/typescript-basics/issues"
   },
-  "homepage": "https://github.com/nasudaai/typescript-basics#readme"
+  "homepage": "https://github.com/nasudaai/typescript-basics#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
 }
